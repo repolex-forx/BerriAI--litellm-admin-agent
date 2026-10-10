@@ -1,0 +1,11 @@
+{
+  "org": "BerriAI",
+  "repo": "litellm-admin-agent",
+  "versions": [
+    {
+      "commit": "3fdd3d33907f2cf63760a970a8f2aa8950b84908",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:36:59.556135+00:00"
+    }
+  ]
+}
